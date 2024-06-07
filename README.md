@@ -18,7 +18,7 @@ This is a Next.js application named Anime List. It includes a simple home page w
 
 
 
-1. Clone the repository: git clone [repository URL]
+1. Clone the repository: git clone [https://github.com/JeremieAgee/animelist]
 
 2. Navigate to the project directory: `cd [project-directory]`
 
@@ -34,7 +34,7 @@ This is a Next.js application named Anime List. It includes a simple home page w
 
 
 
-This application is deployed on Vercel. You can view the live site at: [deployment URL]
+This application is deployed on Vercel. You can view the live site at: [https://animelist-liart.vercel.app/]
 
 
 
